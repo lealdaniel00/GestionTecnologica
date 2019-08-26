@@ -8,4 +8,4 @@ Integrantes:
 </ol>
 
 Flujo de procesos producto de innovación tecnologica e innovación en Software.
-Herramienta usada para la elaboracion de los flujos: bpmn.studio
+<i>Herramienta usada para la elaboracion de los flujos: bpmn.studio.</i></br>
